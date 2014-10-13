@@ -11,7 +11,7 @@
 		}
 	],
 	"require": {
-		"soju/kcfinder": "dev-master"
+		"sunhater/kcfinder": "dev-master"
 	},
 	"autoload": {
 		"psr-4": {"soju\\yii2kcfinder\\": ""}
